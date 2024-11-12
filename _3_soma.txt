@@ -21,7 +21,7 @@ que é uma progressão aritimética;
 
 podemos utilizar soma de gauss para resolver
 
-SOMA = N(N+1)/2 - 1, com N = 13
+SOMA = N(N-1)/2 - 1, com N = 13
 
 fazendo a conta, temos:
 
